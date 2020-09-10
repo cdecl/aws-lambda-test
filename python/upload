@@ -1,0 +1,1 @@
+aws lambda update-function-code --no-verify-ssl --function-name test-cdecl-dev --zip-file fileb://function.zip

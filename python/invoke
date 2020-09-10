@@ -1,0 +1,1 @@
+aws lambda invoke --function-name test-cdecl-dev --no-verify-ssl result.json
